@@ -24,3 +24,10 @@ After cloning the project to your computer, you must open it in Visual Studio Co
 
 ## Contact With✨
 Dilara Uluturhan - [LinkedIn](https://www.linkedin.com/in/dilarauluturhan/) - dilarauluturhan@outlook.com
+
+# Leader:
+ Abiabe Renalyn 
+# Members:
+ Cahanap, Angel May
+ Ormilla, Henry
+ Bawiin, Christopher Louie
